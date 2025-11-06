@@ -1,0 +1,9 @@
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+ipywidgets
+joblib
+imbalanced-learn
+jinja2>=3.0.0
